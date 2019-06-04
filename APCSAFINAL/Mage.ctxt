@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mage
+comment1.params=
+comment1.target=Mage()
+comment2.params=one\ two\ three\ four
+comment2.target=void\ Shockwave(Enemy,\ Enemy,\ Enemy,\ Enemy)
+comment3.params=one\ two\ three
+comment3.target=void\ Shockwave(Enemy,\ Enemy,\ Enemy)
+comment4.params=one\ two
+comment4.target=void\ Shockwave(Enemy,\ Enemy)
+comment5.params=one
+comment5.target=void\ Shockwave(Enemy)
+comment6.params=
+comment6.target=void\ printSkillInfo()
+numComments=7

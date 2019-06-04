@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Boosters
+comment1.params=
+comment1.target=Boosters()
+comment10.params=i
+comment10.target=void\ stack(Boosters)
+comment2.params=
+comment2.target=int\ getAdd()
+comment3.params=theAdd
+comment3.target=void\ setAdd(int)
+comment4.params=
+comment4.target=void\ addInc()
+comment5.params=
+comment5.target=int\ getTurn()
+comment6.params=
+comment6.target=void\ resetTurn()
+comment7.params=
+comment7.target=void\ subTurn()
+comment8.params=
+comment8.target=int\ getStack()
+comment9.params=
+comment9.target=void\ stackInc()
+numComments=11

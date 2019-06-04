@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Wraiths
+comment1.params=
+comment1.target=Wraiths()
+comment2.params=
+comment2.target=int\ getChance()
+comment3.params=
+comment3.target=void\ setChance()
+comment4.params=p
+comment4.target=void\ attack(Player)
+numComments=5

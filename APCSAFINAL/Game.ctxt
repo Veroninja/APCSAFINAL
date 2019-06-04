@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printActions()
+comment3.params=choice
+comment3.target=void\ decideClass(int)
+comment4.params=row\ col
+comment4.target=void\ encounter(int,\ int)
+comment5.params=r\ c\ p
+comment5.target=void\ collectItems(int,\ int,\ Player)
+numComments=6

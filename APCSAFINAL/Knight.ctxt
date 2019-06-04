@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Knight
+comment1.params=
+comment1.target=Knight()
+comment2.params=one
+comment2.target=void\ useSkill(Enemy)
+comment3.params=one\ two
+comment3.target=void\ useSkill(Enemy,\ Enemy)
+comment4.params=one\ two\ three
+comment4.target=void\ useSkill(Enemy,\ Enemy,\ Enemy)
+comment5.params=one\ two\ three\ four
+comment5.target=void\ useSkill(Enemy,\ Enemy,\ Enemy,\ Enemy)
+comment6.params=
+comment6.target=void\ printSkillInfo()
+numComments=7
